@@ -1,2 +1,2 @@
 print("Hello World")
-EXPOSE 8000
+EXPOSE 5000
